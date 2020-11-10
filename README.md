@@ -7,7 +7,7 @@ I/P:
 2)  Number of Symbols needed in the password.
 3) Number of Integers needed in the password.
 
-o/P:
+O/P:
 Generated Password 
 
 
